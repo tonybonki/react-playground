@@ -1,7 +1,11 @@
-
+import ListGroup from "./components/ListGroup";
 function App() {
   return (
-    <h1>Hello World</h1>
+    <>
+    <h1>React Playground</h1>
+    <ListGroup />
+    </>
+
   );
 }
 
